@@ -1,4 +1,3 @@
-# Final-Assignment---Part-1-and-Part-2
  IBM Excel Basics for Data Analysis – Fleet Inventory Project
 
 This project was completed as part of the IBM Excel Basics for Data Analysis course. The project simulates the role of a Junior Data Analyst working in a local government office, tasked with importing, cleaning, and preparing fleet inventory data for analysis.
